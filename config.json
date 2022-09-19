@@ -1,13 +1,13 @@
 {
   "embed": {
-    "title": "Tatertot Title",
-    "description": "Tatertot Description - Warning: THIS IS A RICKROLL WEBSITE",
+    "title": "Super LGM World",
+    "description": "The newest game created by LGM Productions will relase on December 2023",
     "url": "https://bluefalconhd.github.io/tatertot",
     "image": "https://github.com/BlueFalconHD/tatertot/raw/master/assets/logo.png",
-    "color": "#FFFFFF"
+    "color": "#FFFF00"
   },
   "page": {
-    "title": "Tatertot Page Title"
+    "title": "Super LGM World"
   },
 
   "redirect": "https://shattereddisk.github.io/rickroll/rickroll.mp4",
